@@ -1,0 +1,193 @@
+.cliker {
+	height: 150px;
+	width: 150px;
+}
+
+.welcome {
+	color: #414141;
+	text-align: center;
+	margin-top: 10px;
+	font-family: 'Ranchers', cursive;
+}
+
+.welcome.color {
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+	font-family: 'Ranchers', cursive;
+}
+
+.num {
+	color: #414141;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 120px;
+	font-family: 'Ranchers', cursive;
+}
+
+.num.color {
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 120px;
+	font-family: 'Ranchers', cursive;
+}
+
+.line {
+	height: 400px;
+	width: auto;
+	background-color: white;
+	padding-top: 60px;
+	padding-left: 30px;
+}
+
+.line.color {
+	height: 400px;
+	width: auto;
+	background-color: #414141;
+	padding-top: 60px;
+	padding-left: 30px;
+}
+
+.x2 {
+	background-color: #414141;
+	height: 50px;
+	width: 100px;
+	border-radius: 20px;
+	padding: 5px;
+
+}
+
+.x5 {
+	background-color: #414141;
+	height: 50px;
+	width: 100px;
+	border-radius: 20px;
+	padding: 5px;
+
+}
+
+.tap {
+	color: #414141;
+} 
+
+.tap.color {
+	color: white;
+} 
+
+.x3 {
+	background-color: #414141;
+	height: 50px;
+	width: 100px;
+	border-radius: 20px;
+	padding: 5px;
+	margin-top: 10px;
+
+}
+
+.x5 {
+	background-color: #414141;
+	height: 50px;
+	width: 100px;
+	border-radius: 20px;
+	padding: 5px;
+	margin-top: 10px;
+
+}
+
+.x4 {
+	background-color: #414141;
+	height: 50px;
+	width: 100px;
+	border-radius: 20px;
+	padding: 5px;
+	margin-top: 10px;
+
+}
+
+h2 {
+	text-align: center;
+	font-size: 20px;
+}
+
+
+.back {
+	background-color: #414141;
+	height: 50px;
+	width: 50px;
+	border-radius: 10px;
+	padding: 5px;
+	margin-top: 10px;
+
+}
+
+.back.tab {
+	background-color: #414141;
+	height: 50px;
+	width: 50px;
+	border-radius: 10px;
+	padding: 5px;
+	margin-top: 10px;
+
+}
+
+.back2 {
+	background-color: white;
+	height: 50px;
+	width: 50px;
+	border-radius: 10px;
+	padding: 5px;
+	margin-top: 10px;
+
+}
+
+
+.body.yellow {
+	background-color: #414141;
+}
+
+.body {
+	margin: 0px;
+	background-color: white;
+	color: white;
+	text-align: center;
+	font-family: 'Ranchers', cursive;
+}
+
+
+.x2.color {
+	background-color: #64b2cd;
+	height: 50px;
+	width: 100px;
+	border-radius: 20px;
+	padding: 5px;
+
+}
+
+.x3.color {
+	background-color: #64b2cd;
+	height: 50px;
+	width: 100px;
+	border-radius: 20px;
+	padding: 5px;
+
+}
+
+.x5.color {
+	background-color: #64b2cd;
+	height: 50px;
+	width: 100px;
+	border-radius: 20px;
+	margin-top: 10px;
+	padding: 5px;
+
+}
+
+.x4.color {
+	background-color: #64b2cd;
+	height: 50px;
+	width: 100px;
+	border-radius: 20px;
+	padding: 5px;
+
+}
